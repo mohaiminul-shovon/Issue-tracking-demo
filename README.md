@@ -1,2 +1,1 @@
-# Issue-tracking-demo
-This is demo issue listing and tracking format which has been implemented on Quick-Meet open source project
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTI6TG2Fv5UglMRIWmz6im7-XpFvZNGfUsPaiy9Sw3GSlZuCRZ-qhB1KVSfZ66OlmAR9bmnd8PJBjF8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
